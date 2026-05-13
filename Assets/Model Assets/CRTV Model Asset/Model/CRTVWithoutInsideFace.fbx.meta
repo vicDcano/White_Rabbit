@@ -3,7 +3,42 @@ guid: 6207fa75885a9384d8336f38b6a8d2fc
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AttenaMaterial
+    second: {fileID: 2100000, guid: 91fafc368038b2744afc2ec70124b76b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AttenaMaterial.001
+    second: {fileID: 2100000, guid: 20ebe28125ff59a48bc224fdf7a3ec1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BackMaterial
+    second: {fileID: 2100000, guid: d342388e896608d4d9b0cb55258e2b80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseMAterial
+    second: {fileID: 2100000, guid: 3f09b9c5046239c47a6e293ca7018c41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 69af16a1abff40d44ad6a6dea5fbb7ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MainBody
+    second: {fileID: 2100000, guid: be19004c6bd65054792b9b59905f99dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TVFeedOffAir
+    second: {fileID: 2100000, guid: 1eebf9d0d3e771c43ba34799255d4613, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
